@@ -22,7 +22,7 @@ title: Spring Boot and Quartz Integration
 email: pramod.shanmugam@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This blog is a setp by step guid on how to integrate quartz with springboot 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/springboot-quartz-integration.github.io" # the subpath of your site, e.g. /blog
 url: "https://pramodshanmugam.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pramod
 github_username:  pramodshanmugam
